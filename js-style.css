@@ -1,4 +1,5 @@
 /* project */
+
 .card {
   background-color: #000;
   position: relative;
@@ -105,14 +106,14 @@
 }
 
 .card .content h2 {
-  color: #fff;
+  color: #ceffee;
   text-transform: uppercase;
   font-size: 2.5em;
   line-height: 1em;
 }
 
 .card .content p {
-  color: #fff;
+  color: #ceffee;
 }
 
 .card .content a {
@@ -133,6 +134,8 @@
     height: 550px;
   }
 }
+
+
 
 
 
