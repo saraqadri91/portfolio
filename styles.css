@@ -81,8 +81,8 @@ body {
     color: var(--bgLight);
 }
 a{
-    text-decoration: none;
-    color: var(--bgLight);
+    text-decoration: none !important;
+    color: var(--bgLight) !important;
 }
 
 .btnn {
