@@ -80,6 +80,10 @@ body {
     margin-bottom: 2rem;
     color: var(--bgLight);
 }
+a{
+    text-decoration: none;
+    color: var(--bgLight);
+}
 
 .btnn {
     font-size: 1rem;
